@@ -5,7 +5,7 @@ function home() {
   return (
     <div className="main">
       <div className="navbar">
-        <a href="#" className="btn-1">
+        <a href="#" className="btn-all">
           <strong>All</strong>
         </a>
         <a href="#" className="btn-2">
